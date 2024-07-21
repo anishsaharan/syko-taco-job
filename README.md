@@ -16,9 +16,9 @@ This project is created and maintained by Anish, a professional developer in the
 
 - **qb-core** - [qb-core on GitHub](https://github.com/qbcore-framework/qb-core) (Latest)
 - **qb-target** - [qb-target on GitHub](https://github.com/BerkieBb/qb-target)
-- **MLO** - [syko-taco-mlo Restaurant MLO](https://github.com/anishsaharan/syko-taco-mlo)
+- **MLO** - [syko-taco-mlo](https://github.com/anishsaharan/syko-taco-mlo)
 
-If you don't have the MLO, you can use this [syko-taco-mlo Restaurant MLO](https://github.com/anishsaharan/syko-taco-mlo)
+If you don't have the MLO, you can use this [syko-taco-mlo](https://github.com/anishsaharan/syko-taco-mlo)
 
 ### Installation
 
